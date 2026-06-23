@@ -1,2 +1,2 @@
-# 16610G-16610K-Override
-Code projects for the 16610G and 16610K team for the override season.
+# 16610G-Override
+Code projects for 16610G Good Gravy for the override season.
